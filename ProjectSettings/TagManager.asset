@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Zombie
+  - Medkit
+  - Ammo
+  - ZombieSpawnPoint
+  - HealthBar
+  - Pickups
+  - ItemSlot
+  - BoostPickups
+  - InventoryEntry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Healthbars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1298531701
+    locked: 0
+  - name: Props
+    uniqueID: 3394358849
+    locked: 0
+  - name: Spawners
+    uniqueID: 2842802435
+    locked: 0
+  - name: Pickups
+    uniqueID: 177001487
+    locked: 0
+  - name: Entities
+    uniqueID: 3771820951
+    locked: 0
+  - name: Overlay
+    uniqueID: 1764131733
+    locked: 0
+  - name: IndicatorLayer
+    uniqueID: 4215917691
+    locked: 0
